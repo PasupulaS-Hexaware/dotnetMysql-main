@@ -1,0 +1,6 @@
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Api\obj\Debug\netcoreapp3.1\dotnetMysql.Api.csprojAssemblyReference.cache
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Api\obj\Debug\netcoreapp3.1\dotnetMysql.Api.AssemblyInfoInputs.cache
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Api\obj\Debug\netcoreapp3.1\dotnetMysql.Api.AssemblyInfo.cs
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Api\obj\Debug\netcoreapp3.1\dotnetMysql.Api.csproj.CoreCompileInputs.cache
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Api\obj\Debug\netcoreapp3.1\dotnetMysql.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Api\obj\Debug\netcoreapp3.1\dotnetMysql.Api.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,9 @@
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Entities\bin\Debug\netcoreapp3.1\dotnetMysql.Entities.deps.json
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Entities\bin\Debug\netcoreapp3.1\dotnetMysql.Entities.dll
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Entities\bin\Debug\netcoreapp3.1\dotnetMysql.Entities.pdb
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Entities\obj\Debug\netcoreapp3.1\dotnetMysql.Entities.csprojAssemblyReference.cache
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Entities\obj\Debug\netcoreapp3.1\dotnetMysql.Entities.AssemblyInfoInputs.cache
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Entities\obj\Debug\netcoreapp3.1\dotnetMysql.Entities.AssemblyInfo.cs
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Entities\obj\Debug\netcoreapp3.1\dotnetMysql.Entities.csproj.CoreCompileInputs.cache
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Entities\obj\Debug\netcoreapp3.1\dotnetMysql.Entities.dll
+C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Entities\obj\Debug\netcoreapp3.1\dotnetMysql.Entities.pdb
