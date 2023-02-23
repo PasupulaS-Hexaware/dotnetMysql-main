@@ -1,4 +1,0 @@
-C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Data\obj\Debug\netcoreapp3.1\dotnetMysql.Data.csprojAssemblyReference.cache
-C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Data\obj\Debug\netcoreapp3.1\dotnetMysql.Data.AssemblyInfoInputs.cache
-C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Data\obj\Debug\netcoreapp3.1\dotnetMysql.Data.AssemblyInfo.cs
-C:\Users\1000071061\Downloads\dotnetMysql-main\dotnetMysql-main\dotnetMysql\Code\dotnetMysql.Data\obj\Debug\netcoreapp3.1\dotnetMysql.Data.csproj.CoreCompileInputs.cache
